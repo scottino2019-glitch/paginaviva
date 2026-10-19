@@ -1,0 +1,6 @@
+{
+  "name": "PaginaViva - Creatore di Libri HTML Interattivi",
+  "description": "Crea libri digitali a partire da file HTML di testo interattivo con organizzazione in capitoli, indice dinamico aggiornato in tempo reale e lettura immersiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
